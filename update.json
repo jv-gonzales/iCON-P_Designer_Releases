@@ -16,9 +16,13 @@
     "title": "QA iCON-P Designer v3.02.17",
 
     "release_notes": [
-        "Improved application icon",
-        "Fixed BACnet communication issues",
-        "Improved application stability",
-        "Updated installer"
+        "Update user manual 'U-QA iCON-340PBE (32-Bit) User Manual R3.0.pdf'.",
+        "Bug fixing on DSB gate value label updating issue.",
+        "lib.json on missing in first run prompting as error.",
+        "Bug fixing of library mode copy paste of identical objects",
+        "3400R2Emulator with TCP/API V2",
+        "library gate constant handling prevent from same slot-instance-property mapping",
+        "make constant mapping efficient if there are same values",
+        "Added Check updates button - Latest installer version"
     ]
 }
