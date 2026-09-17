@@ -1,9 +1,9 @@
 {
-    "version": "3.02.16",
-    "build": 30216,
+    "version": "3.02.17",
+    "build": 30217,
     "release_date": "2026-09-17",
 
-    "download_url": "https://github.com/jv-gonzales/iCON-P_Designer_Releases/releases/download/v3.02.16/QA.iCON-P.Designer-beta-V3.02.16.zip",
+    "download_url": "https://github.com/jv-gonzales/iCON-P_Designer_Releases/releases/download/v3.02.17/QA.iCON-P.Designer-beta-V3.02.17.zip",
 
     "file_name": "QA-iCON-P-Designer.zip",
     "file_size": 734003200,
@@ -13,13 +13,14 @@
     "mandatory": false,
     "minimum_version": "3.00.00",
 
-    "title": "QA iCON-P Designer v3.02.16",
+    "title": "QA iCON-P Designer v3.02.17",
 
     "release_notes": [
         "Update user manual 'U-QA iCON-340PBE (32-Bit) User Manual R3.0.pdf'.",
         "Bug fixing on DSB gate value label updating issue.",
         "lib.json on missing in first run prompting as error.",
         "Bug fixing of library mode copy paste of identical objects",
+        "Bug fixing of created library gate using same address but with different values",
         "3400R2Emulator with TCP/API V2",
         "library gate constant handling prevent from same slot-instance-property mapping",
         "make constant mapping efficient if there are same values",
