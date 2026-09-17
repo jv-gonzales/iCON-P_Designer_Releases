@@ -1,6 +1,6 @@
 {
-    "version": "3.02.17",
-    "build": 30217,
+    "version": "3.02.16",
+    "build": 30216,
     "release_date": "2026-09-17",
 
     "download_url": "https://github.com/YOUR-USERNAME/QA-iCON-P-Designer-Releases/releases/download/v3.02.17/QA-iCON-P-Designer.zip",
@@ -13,7 +13,7 @@
     "mandatory": false,
     "minimum_version": "3.00.00",
 
-    "title": "QA iCON-P Designer v3.02.17",
+    "title": "QA iCON-P Designer v3.02.16",
 
     "release_notes": [
         "Improved application icon",
